@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hasteerp
+- 👋 Hi, I’m Payas Hasteer (@Hasteerp)
 - 👀 I’m interested in Coding and Software Development
 - 🌱 I’m currently learning C++ at University of Toronto
 - 💞️ I’m looking to collaborate on Hackathons and software development projects
